@@ -1,0 +1,64 @@
+title { font-size: 34px; text-align: center;  font-family: "Courier New", Courier, monoscope ;}
+ div.container {
+ 
+    width: 99%;
+    border: 3px solid black;
+}
+body {
+    background-color: white;
+}
+
+a:link {
+    color: #000033;
+}
+
+
+a:visited {
+    color:  #4d0026;
+}
+
+
+
+header, footer {
+    padding: 10px;
+    color: dark brown;
+    background-color: white;
+    clear: left;
+    text-align: center;
+    font-size: 10;
+}
+
+
+h1 {
+    color: #422C16 ;
+	text-align: center;
+	text-decoration: underline;
+	 font-size: 30px;
+	 font-family: "Century", Courier, monospace;
+	 }
+	 
+ h2 {color:#2d1606;
+  font-size: 26px; text-align:
+   left;
+ font-family: "Century", Courier, monospace;}
+   
+  h3 {color:#432109; 
+  font-size: 22px; 
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: left;  
+  list-style-type: none;}
+  
+  h4 {color:#2d1a06; text-align: left ; 
+  font-size: 22px; 
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; }
+  
+  p {color:Black; 
+  font-size: 26px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   text-align: center ; font-family: arial, sans-serif;}
+    
+ul { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+
+button { width: 100px; height: 45px; font-size: 17px; background-color: #d1e0fa; 
+border-radius: 12px; margin: 0% 50% 0% 50%;}
+img { padding: 50px }
